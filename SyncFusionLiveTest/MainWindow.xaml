@@ -6,7 +6,9 @@
         xmlns:local="clr-namespace:SyncFusionLiveTest"
         xmlns:syncfusion="http://schemas.syncfusion.com/wpf"
         mc:Ignorable="d"
-        Title="MainWindow">
+        Title="MainWindow"
+        Width="1920"
+        Height="600">
 
 	<Window.DataContext>
 		<local:MainWindowViewModel />
